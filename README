@@ -1,0 +1,12 @@
+# Weather API 🌤️ 
+
+Este es un proyecto en Python que **simula una API de clima** leyendo datos desde archivos `.txt` que ya vienen incluidos en el repositorio
+
+## ¿Qué hace?
+
+- Lee datos meteorológicos desde archivos `.txt`
+- Permite buscar una ciudad
+- Muestra en consola:
+  - Temperatura
+  - Humedad
+  - Estado del clima
